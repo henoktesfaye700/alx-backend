@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Hypermedia pagination sample.
 """
@@ -62,4 +61,3 @@ class Server:
             'total_pages': total_pages,
         }
         return page_info
-
